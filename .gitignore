@@ -1,4 +1,7 @@
 ﻿# bin folder
 VODExporter/bin/
-VODExporter/obj
+VODExporter/obj/
 .idea/
+global.json
+VODExporter.sln
+VODExporter.sln.DotSettings.user

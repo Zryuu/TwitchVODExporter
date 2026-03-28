@@ -1,2 +1,4 @@
 ﻿# bin folder
 VODExporter/bin/
+VODExporter/obj
+.idea/
